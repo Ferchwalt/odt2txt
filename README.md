@@ -28,7 +28,7 @@ The only real source for errors I could imagine with this script is that the one
 
 Some improvements I am looking to implement:
 
--Adding Flags that will let you specify extra characters to add so things like titles are better distinguished from paragraph text.
+-Adding Flags that will let you specify extra characters to add such things like titles are better distinguished from paragraph text.
 
 -Placing the temporarily created files and the directory in a sensible location.
 
