@@ -4,7 +4,7 @@ A small shell script that will convert a Open Document File (.odt) to a simple t
 Feel free to check out the sister script txt2odt.sh on my profile :)
 
 # Dependencies:
-You need unzip, sed and a shell. Newest zip, awk and shell version I tested on (Feel free to test it on other versions. However, the functionalities I used are so basic that this script should run on basically any version).
+You need unzip, sed and a shell. Newest unzip, sed and shell version I tested on (Feel free to test it on other versions. However, the functionalities I used are so basic that this script should run on basically any version).
 
 unzip version I tested on: world/unzip 6.0-20 (Artix repositories)
 
